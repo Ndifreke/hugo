@@ -16,9 +16,12 @@ Hugo is a static site generator written in Go, using Go's native template packag
 
 ## Post-install
 
-The `content` directory includes two pieces of sample content, provided so that the initial install has some content to show.  Replace it with your actual content as desired.
+The template includes:
 
-You can remove the `minimal` theme if you so desire and replace it with one you download or one you create yourself.
+* two pieces of sample content in the content directory
+* The `minimal` theme 
+
+You can remove the `minimal` theme if you so desire and replace it with one you download from https://themes.gohugo.io/ or one you create yourself.
 
 ## Customizations
 
